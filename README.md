@@ -20,9 +20,3 @@ This pipeline automates the process of gathering the global Top 50 songs from Sp
 
 
 ```
-
-## Note
-
-This pipeline assumes a basic understanding of AWS services, Spotify API, and ETL concepts. Make sure to replace placeholders with your actual credentials and customize the pipeline according to your needs.
-
-For any questions or support, please contact [your.email@example.com](mailto:your.email@example.com).
